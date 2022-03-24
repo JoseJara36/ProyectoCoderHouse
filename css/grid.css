@@ -23,7 +23,7 @@ body{
 
 .estilo_menu_principal{
     color: black;
-    background-color: blueviolet;
+    background: blueviolet;
     grid-area: estilo_menu_principal;        
     text-decoration: none;
     text-align: right;
@@ -168,3 +168,7 @@ form input {
     background-color: darkslateblue;
   }
 
+.logo{
+
+  transform:rotate(90deg);
+}
